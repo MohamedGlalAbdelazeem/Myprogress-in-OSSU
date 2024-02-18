@@ -7,5 +7,5 @@ that same input in lowercase. Punctuation and whitespace
   to prompt the user explicitly, 
 as by passing a str of your own as an argument to input.
 """
-str = input("please Enter your string").lower()
-print(str)
+# str = input("please Enter your string").lower()
+# print(str)
