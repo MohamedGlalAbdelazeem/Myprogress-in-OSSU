@@ -13,8 +13,8 @@ ________________________________________________________________________________
 ## Week 1
 ### Problem Set 1
 #### I have finshed all of the problems below:
--    
--    
--    
--  
--    
+- Deep Thought
+- Home Federal Savings Bank
+- File Extensions
+- Math Interpreter
+- Meal Time
