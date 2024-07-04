@@ -1,4 +1,5 @@
 # OSSU (Open Source Society University) Track
+<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 
 I have embarked on a journey to enhance my computer science knowledge by following the Open Source Society University (OSSU) track. OSSU offers a comprehensive curriculum that covers the core concepts and skills in computer science, equivalent to those taught in a traditional university program.
 
